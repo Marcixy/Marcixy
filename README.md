@@ -1,3 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcixy)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcixy&show_icons=true&theme=radical)
+
