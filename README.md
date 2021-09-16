@@ -12,5 +12,5 @@
 * Express
 * mongoDB
 * Flutter
-* Dart
+* :dart: Dart
 * C++
