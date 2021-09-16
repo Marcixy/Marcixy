@@ -4,13 +4,13 @@
 
 ## Techstack
 
-* Reactjs
-* Javascript
-* HTML5
-* CSS3
-* Node.js
-* Express
-* mongoDB
-* Flutter
+* :atom: Reactjs
+* 📝 Javascript
+* :label: HTML5
+* :gem: CSS3
+* :computer: Node.js
+* 🖥️ Express
+* :cd: mongoDB
+* :iphone: Flutter
 * :dart: Dart
-* C++
+* :globe_with_meridians: C++
